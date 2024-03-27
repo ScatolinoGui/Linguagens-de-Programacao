@@ -1,4 +1,4 @@
-# **Linguagens de Programação**
+<h1 align="center"> Linguagens de Programação </h1>
 ## Projeto **Loto Fácil**
 <p>
 Este é um projeto de sorteio de números, letras e opção Par ou Ímpar, chamado **LotoFácil** criado no Visual Studio Code v1.87.2, utilizando as bibliotecas "java.util.Random" e "java.util.Scanner". O funcionamento do sistema é através do terminal, onde os jogadores podem interagir digitando e lendo dados.
