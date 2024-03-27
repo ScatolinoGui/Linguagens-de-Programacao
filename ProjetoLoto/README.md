@@ -27,6 +27,7 @@ Opção Par ou Ímpar: Permite ao usuário escolher entre "Par" ou "Ímpar" e ge
     <a href="https://code.visualstudio.com">🔗 Visual Studio Code</a>
 </h3>
 <p align="center">💻 O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft.</p>
+<p align="center">Ou qualquer outro tipo de editor para trabalhar com o código.</p>
 
 <h2 align="center">Executar o Projeto</h2>
 <p>
