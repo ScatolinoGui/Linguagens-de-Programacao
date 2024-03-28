@@ -45,7 +45,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina a seguinte f
 
 <h3 align="center">Demonstração</h3>
 
-https://github.com/ScatolinoGui/Linguagens-de-Programacao/assets/164931554/184f1f1d-9993-4745-8b0c-60f30f04d130
+https://github.com/ScatolinoGui/Linguagens-de-Programacao/assets/164931554/83c747d6-14bd-4d4c-a6f8-e5c2f874ca2a
 
 <h3 align="center">Contribuições</h3>
 
