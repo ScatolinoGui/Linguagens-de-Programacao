@@ -1,2 +1,2 @@
 # Linguagens-de-Programacao
-Repositório criado para exercícios da matéria Linguagens de Programação, na faculdade Newton Paiva.
+Repositório criado para exercícios da matéria Linguagens de Programação, na faculdade Newton Paiva ministrada pelo professor @joaopauloaramuni .
