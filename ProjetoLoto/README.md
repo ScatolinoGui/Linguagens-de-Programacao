@@ -27,7 +27,6 @@ Opção Par ou Ímpar: Permite ao usuário escolher entre "Par" ou "Ímpar" e ge
     <a href="https://code.visualstudio.com">🔗 Visual Studio Code</a>
 </h3>
 <p align="center">💻 O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft.</p>
-<p align="center">Ou qualquer outro tipo de editor para trabalhar com o código.</p>
 
 <h2 align="center">Executar o Projeto</h2>
 <p>
@@ -38,14 +37,14 @@ Antes de começar, você vai precisar ter instalado em sua máquina a seguinte f
 <h3 align="center">Passo a Passo</h3>
 
 <p>• Abra o seu editor para trabalhar com o código e clone ou importe o projeto.</p>
-<p>• Vá para a pasta src\main\java</p>
+<p>• Vá para a pasta src\main\java\loto</p>
 <p>• Abra o LotoFacil.java</p>
 <p>• Rode o projeto no Terminal do seu editor.
 <p>• Pronto! Agora escolha a opção desejada.</p>
 
 <h3 align="center">Demonstração</h3>
 
-https://github.com/ScatolinoGui/Linguagens-de-Programacao/assets/164931554/83c747d6-14bd-4d4c-a6f8-e5c2f874ca2a
+https://github.com/ScatolinoGui/Linguagens-de-Programacao/assets/164931554/184f1f1d-9993-4745-8b0c-60f30f04d130
 
 <h3 align="center">Contribuições</h3>
 
@@ -54,7 +53,7 @@ https://github.com/ScatolinoGui/Linguagens-de-Programacao/assets/164931554/83c74
 <h3 align="center">Licença</h3>
 <p>Este projeto é distribuído sob a Licença MIT. Sinta-se à vontade para usá-lo e modificá-lo de acordo com suas necessidades.</p>
 
-Este projeto foi desenvolvido por Guilherme e é fornecido sem garantias de qualquer tipo. Divirta-se usando o LotoFácil!
+Este projeto foi desenvolvido por Guilherme e é fornecido sem garantias de qualquer tipo. Divirta-se usando o Sorteador de Loteria (LotoFácil)!
 </p>
 
 <h3 align="center">Autor</h3>
