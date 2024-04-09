@@ -37,7 +37,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina a seguinte f
 <h3 align="center">Passo a Passo</h3>
 
 <p>• Abra o seu editor para trabalhar com o código e clone ou importe o projeto.</p>
-<p>• Vá para a pasta src\main\java\loto</p>
+<p>• Vá para a pasta ProjetoLoto\src\main\java\loto</p>
 <p>• Abra o LotoFacil.java</p>
 <p>• Rode o projeto no Terminal do seu editor.
 <p>• Pronto! Agora escolha a opção desejada.</p>
