@@ -39,7 +39,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina a seguinte f
 <h3 align="center">Passo a Passo</h3>
 
 <p>• Abra o seu editor para trabalhar com o código e clone ou importe o projeto.</p>
-<p>• Vá para a pasta src\main\java\loto</p>
+<p>• Vá para a pasta ProjetoLoto\src\main\java\loto</p>
 <p>• Abra o LotoFacil.java</p>
 <p>• Rode o projeto no Terminal do seu editor.
 <p>• Pronto! Agora escolha a opção desejada.</p>
@@ -89,12 +89,14 @@ Antes de começar, você vai precisar ter instalado em sua máquina a seguinte f
 <h3 align="center">Passo a Passo</h3>
 
 <p>• Abra o seu editor para trabalhar com o código e clone ou importe o projeto.</p>
-<p>• Vá para a pasta src\main\java\loto</p>
+<p>• Vá para a pasta ProjetoLoto\src\main\java\loto</p>
 <p>• Abra o LotoFacilGUI.java</p>
 <p>• Rode o projeto em seu editor.
 <p>• Pronto! Agora escolha a opção desejada.</p>
 
 <h3 align="center">Demonstração</h3>
+
+https://github.com/ScatolinoGui/Linguagens-de-Programacao/assets/164931554/9471caf5-881f-44ea-8880-fa5348b231b4
 
 </details>
 
