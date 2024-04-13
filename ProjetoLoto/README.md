@@ -51,7 +51,7 @@ https://github.com/ScatolinoGui/Linguagens-de-Programacao/assets/164931554/184f1
 </details>
 <details>
 <summary>Projeto LotoFácilGUI</summary>
-<h2 align="center">Projeto LotoFácil</h2>
+<h2 align="center">Projeto LotoFácilGUI</h2>
 <p>
 <p>Este é um projeto de sorteio de números, letras e opção Par ou Ímpar, chamado LotoFácilGUI criado no IntelliJ IDEA v2024.1, utilizando as bibliotecas "java.util.Random" "java.swing*" e "java.awt.*", o funcionamento do sistema é através próprio IntelliJ, ou em qualquer outra IDE com o Java JDK integrado, sendo necessário apenas rodar o projeto pela própria IDE, onde os jogadores podem interagir digitando e lendo dados.</p>
 
