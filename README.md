@@ -1,5 +1,5 @@
 <h1 align="center">Linguagens de Programação</h1>
-<h3 align="center">Repositório criado para exercícios da matéria Linguagens de Programação, na faculdade Newton Paiva ministrada pelo professor [@joaopauloaramuni](https://github.com/joaopauloaramuni).</h3>
+Repositório criado para exercícios da matéria Linguagens de Programação, na faculdade Newton Paiva ministrada pelo professor [@joaopauloaramuni](https://github.com/joaopauloaramuni).
 <details>
 <summary>Projeto LotoFácil</summary>
 <h2 align="center">Projeto LotoFácil</h2>
