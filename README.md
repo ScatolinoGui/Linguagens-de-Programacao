@@ -111,7 +111,7 @@ https://github.com/ScatolinoGui/Linguagens-de-Programacao/assets/164931554/9471c
 <h3 align="center">Licença</h3>
 <p>Este projeto é distribuído sob a Licença MIT. Sinta-se à vontade para usá-lo e modificá-lo de acordo com suas necessidades.</p>
 
-Este projeto foi desenvolvido por Guilherme e é fornecido sem garantias de qualquer tipo. Divirta-se usando o Sorteador de Loteria (LotoFácil)!
+Este projetos foram desenvolvidos por Guilherme e é fornecido sem garantias de qualquer tipo. Divirta-se usando-os!
 </p>
 
 <h3 align="center">Autor</h3>
